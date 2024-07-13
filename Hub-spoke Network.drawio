@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T04:21:27.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="RTqhL4kvPqvgaK0blgcL" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T06:51:36.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="BhDCsxYYzzRftVUjNX_W" version="24.6.4" type="github">
   <diagram name="Page-1" id="QJOc4FPXJreE6Yzap2Jc">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,15 @@
             <mxPoint x="60" y="400" as="sourcePoint" />
             <mxPoint x="250" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGn_zbviUPno7vB-4MJZ-10" value="Basic Firewall Connection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGn_zbviUPno7vB-4MJZ-11" value="Hub-Spoke Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGn_zbviUPno7vB-4MJZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="870" width="280" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
